@@ -1,0 +1,2 @@
+       01  CI-MESSAGE PIC X(40)
+           VALUE 'SHARED COPYBOOK VERSION 1'.
